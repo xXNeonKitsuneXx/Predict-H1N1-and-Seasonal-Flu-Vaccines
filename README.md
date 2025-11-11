@@ -10,3 +10,10 @@ Competition: https://www.drivendata.org/competitions/66/flu-shot-learning/page/2
 
 ## Final Project Presentation of Flu Shot Learning (Canva Slide)
 [Final Project Presentation of Flu Shot Learning - Canva Slide](https://www.canva.com/design/DAGlbtoQ_30/Ipx1s8LOWGL4pbCAR9od_A/view)
+
+---
+
+## Contributors
+- [@xXNeonKitsuneXx](https://github.com/xXNeonKitsuneXx)
+- [@hideonbug-ssi](https://github.com/hideonbug-ssi)
+- [@opnxjm](https://github.com/opnxjm)
